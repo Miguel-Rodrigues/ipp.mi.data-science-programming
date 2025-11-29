@@ -210,3 +210,4 @@ __marimo__/
 src/archive.ics.uci.edu
 *.csv
 *.tsv
+*.xlsx
